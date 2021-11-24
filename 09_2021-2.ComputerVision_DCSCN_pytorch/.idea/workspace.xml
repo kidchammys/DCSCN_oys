@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0bca5963-73bf-41bd-a4c0-426e901f227b" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/augmented_data/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/augmented_data/train_org/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/augmented_data/train_sr/HR/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/augmented_data/train_sr/LRBICUBIC/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/augmented_data/train_sr/LRX2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/augmented_data/train_sr/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/submission_making/make_submission.py" beforeDir="false" afterPath="$PROJECT_DIR$/submission_making/make_submission.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submission_making/submission_image/img_001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/submission_making/submission_image/img_002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/submission_making/submission_image/img_003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/submission_making/submission_image/img_004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/submission_making/submission_image/img_005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/img_001_recon.png" beforeDir="false" afterPath="$PROJECT_DIR$/test/img_001_recon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/img_002_recon.png" beforeDir="false" afterPath="$PROJECT_DIR$/test/img_002_recon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/img_003_recon.png" beforeDir="false" afterPath="$PROJECT_DIR$/test/img_003_recon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/img_004_recon.png" beforeDir="false" afterPath="$PROJECT_DIR$/test/img_004_recon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/img_005_recon.png" beforeDir="false" afterPath="$PROJECT_DIR$/test/img_005_recon.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="20iakRYY7zVG4In5JnHtUHweXwC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="advanced.settings" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="0bca5963-73bf-41bd-a4c0-426e901f227b" name="변경" comment="" />
+      <created>1636530005013</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636530005013</updated>
+    </task>
+    <servers />
+  </component>
+</project>
